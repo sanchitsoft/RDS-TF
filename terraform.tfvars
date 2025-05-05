@@ -1,0 +1,6 @@
+project_name   = "study-project"
+region         = "us-east-1"
+engine_version = "14.13"
+instance_class = "db.t3.medium"
+db_username    = "admin"
+db_password    = "SecurePassword123"
